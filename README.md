@@ -1,4 +1,4 @@
-# Authentication-Secrets-1
+# Authentication-Secrets
 #
 ## Login passwords are hidden using npm package dotenv.
 ## https://www.npmjs.com/package/dotenv
